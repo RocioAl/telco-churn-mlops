@@ -86,3 +86,5 @@ Responde brevemente:
 - ¿Qué información muestra `git status`?
 - ¿Para qué sirve una rama?
 - ¿Qué diferencia hay entre Git y GitHub?
+
+Este proyecto utiliza Regresión Logística, Random Forest y SVM.
