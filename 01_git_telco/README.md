@@ -88,3 +88,6 @@ Responde brevemente:
 - ¿Qué diferencia hay entre Git y GitHub?
 
 Este proyecto utiliza Regresión Logística, Random Forest y SVM.
+
+# Modelo SVM
+Modelo de aprendizaje automatico supervizado y que se utiliza principalmente para tareas de clasificacion y regresion, funciona con un hiperplano que maximiza el margen en un espacio enrtre diferentes clases y es multidimensional.
