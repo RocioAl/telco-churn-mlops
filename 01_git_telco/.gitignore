@@ -1,0 +1,6 @@
+# Archivos locales o temporales
+notas_privadas.txt
+*.log
+__pycache__/
+.venv/
+.env

@@ -1,0 +1,4 @@
+id,tenure,MonthlyCharges,Contract,Churn
+1,5,85.50,Month-to-month,Yes
+2,36,62.10,One year,No
+3,12,95.00,Month-to-month,Yes
