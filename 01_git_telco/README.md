@@ -91,3 +91,15 @@ Este proyecto utiliza Regresión Logística, Random Forest y SVM.
 
 # Evaluación de modelos
 usaremos Accuracy, F1 y ROC-AUC
+
+# Accuracy:
+Porcentaje de predicciones totales que son correctas sobre el total de nustras muestras
+
+# F1
+Media armónica entre Precisión y Recall. Ideal para encontrar un balance entre ambas cuando hay clases desbalanceadas.
+
+# Precision
+Qué tan confiables son las predicciones positivas. De todo lo que el modelo predijo como positivo, cuántos acertó realmente (minimiza falsos positivos).
+
+# Recall
+Qué tan capaz es el modelo de encontrar todos los casos positivos reales que existían (minimiza falsos negativos).
