@@ -91,3 +91,5 @@ Este proyecto utiliza Regresión Logística, Random Forest y SVM.
 
 # Evaluación de modelos
 usaremos Accuracy, F1 y ROC-AUC
+
+# Resultados del proyecto
